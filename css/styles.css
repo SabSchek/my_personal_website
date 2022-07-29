@@ -6,15 +6,30 @@ body {
     header {
 	position: center;
 	top: 0px;
-	left: 50%;
+	left: 0px;
 	width: 784px;
-	height: 200px;
+	height: 9px;
+    margin: 0px;
+    padding: 0px;
 }
-  
+.header{
+
+    width: 1500px;
+	height: 350px;
+    margin: 0px;
+    padding: 0px;
+}  
+
   h1 {
-    color: rgb(163, 151, 151);
+    color: rgb(250, 204, 0);
     text-align: center;
-    font-family: arial;
+    font-family: 'Cinzel', serif;
+    display: 
+    margin: px;
+    padding: 100px;
+
+   
+
   }
   
   p {
@@ -26,11 +41,56 @@ body {
 
   .aboutme
   {
-    color: white;
+    color: rgb(59, 27, 27);
   }
 
-  .kyhl {
+  .bilder {
     border-radius: 300px;
-    width: 200px;
-	height: 150px:
+    width: 300px;
+	height: 300px;
+    display: flex; 
+    justify-content: center;
+    border-color: rgb(88, 77, 6);
+    border-width: 5px;
+    border-style: solid;
   }
+
+  .titlelink {
+    display:flex;
+    justify-content: center;
+  }
+
+  .link1
+  {
+    font-family: 'Cinzel', serif;
+    margin: 20px;
+    padding: 40px;
+    display: flex; 
+    justify-content: center;
+
+  }
+
+  .link2
+  {
+    font-family: 'Cinzel', serif;
+    margin: 20px;
+    padding: 40px;
+    display: flex; 
+    justify-content: center;}
+
+    .link3
+    {
+      font-family: 'Cinzel', serif;
+      margin: 20px;
+      padding: 40px;
+      display: flex; 
+      justify-content: center;
+    }
+
+    .titlepic {
+        display: flex; 
+      justify-content: center;
+      padding: 100px;
+      display: flex; 
+
+    }
