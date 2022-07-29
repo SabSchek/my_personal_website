@@ -3,94 +3,86 @@ body {
   }
 
 
-    header {
+header {
 	position: center;
 	top: 0px;
 	left: 0px;
 	width: 784px;
 	height: 9px;
-    margin: 0px;
-    padding: 0px;
+  margin: 0px;
+  padding: 0px;
 }
 .header{
 
     width: 1500px;
-	height: 350px;
+	 height: 350px;
     margin: 0px;
     padding: 0px;
 }  
 
-  h1 {
-    color: rgb(250, 204, 0);
+h1 {
+    color: rgb(186, 179, 146);
     text-align: center;
     font-family: 'Cinzel', serif;
-    display: 
-    margin: px;
     padding: 100px;
-
    
-
   }
-  
-  p {
+
+h4 {
+    color: white;
+    font-family: 'Cinzel', serif;
+}
+
+p {
     font-family: arial;
     color: white;
-    font-size: 20px;
-
+    font-size: 10px;
+    hyphens: none; 
+	  text-align: justify; 
+    width: 400px;
+  
   }
 
-  .aboutme
-  {
-    color: rgb(59, 27, 27);
+  .about-me {
+
+    position: ;
   }
 
   .bilder {
-    border-radius: 300px;
-    width: 300px;
-	height: 300px;
+    border-radius: 200px;
+    width: 200px;
+	  height: 200px;
     display: flex; 
     justify-content: center;
     border-color: rgb(88, 77, 6);
-    border-width: 5px;
-    border-style: solid;
+    border-width: 2px;
+    border-style: solid; 
+      
   }
+
+  .titlepic {
+    display: flex; 
+  justify-content: center;
+  padding: 100px;
+  display: flex; }
 
   .titlelink {
     display:flex;
     justify-content: center;
   }
 
-  .link1
+  .nav-link
   {
     font-family: 'Cinzel', serif;
     margin: 20px;
     padding: 40px;
     display: flex; 
     justify-content: center;
-
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
   }
 
-  .link2
-  {
-    font-family: 'Cinzel', serif;
-    margin: 20px;
-    padding: 40px;
-    display: flex; 
-    justify-content: center;}
 
-    .link3
-    {
-      font-family: 'Cinzel', serif;
-      margin: 20px;
-      padding: 40px;
-      display: flex; 
-      justify-content: center;
-    }
-
-    .titlepic {
-        display: flex; 
-      justify-content: center;
-      padding: 100px;
-      display: flex; 
-
-    }
+   
+  
