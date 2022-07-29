@@ -25,27 +25,36 @@ h1 {
     text-align: center;
     font-family: 'Cinzel', serif;
     padding: 100px;
+    background-color: black;
    
   }
 
 h4 {
     color: white;
     font-family: 'Cinzel', serif;
+    text-align: justify; 
 }
 
 p {
     font-family: arial;
     color: white;
-    font-size: 10px;
+    font-size: 14px;
     hyphens: none; 
 	  text-align: justify; 
-    width: 400px;
+    width: 350px;
   
   }
 
-  .about-me {
+.about-me {
 
-    position: ;
+    font-family: 'Old Standard TT', serif;
+    margin: 1px;
+    padding: 100px;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    
   }
 
   .bilder {
