@@ -1,4 +1,4 @@
-.bilder {
+.titelbild {
     border-radius: 200px;
     width: 200px;
 	  height: 200px;
@@ -10,7 +10,7 @@
       
   }
 
-  .titlepic {
+  .bilder {
     display: flex; 
   justify-content: center;
   padding: 100px;
@@ -21,9 +21,7 @@
     justify-content: center;
   }
 
-  .nav-link
-  {
-    font-family: 'Cinzel', serif;
+  .nav-link { font-family: 'Cinzel', serif;
     margin: 40px;
     padding: 40px;
     display: flex; 
@@ -34,7 +32,6 @@
   }
 
 .ref
-
 {
 border-radius: 200px;
 width: 150px;
@@ -45,30 +42,5 @@ border-color: rgb(88, 77, 6);
 border-width: 4px;
 border-style: solid; 
 margin-left: 100px;
-
-
-position: center;
-width: 150px;
-height: 150px;
-padding: 50px
-display: flex;
-flex-direction: column;
-
-}
-
-h1 {
-  color: rgb(186, 179, 146);
-  text-align: center;
-  font-family: 'Cinzel', serif;
-  padding: 100px;
-  background-color: black;
- 
-}
-
-h4 {
-  color: white;
-  font-family: 'Cinzel', serif;
-  text-align: justify; 
-
 }
 
