@@ -24,7 +24,7 @@ header {
 .header{
 
     width: 2000px;
-	 height: 400px;
+	  height: 400px;
     margin: 0px;
     padding: 0px;
 }  
@@ -106,14 +106,16 @@ p {
 
 .ref
 {
+border-radius: 200px;
+width: 300px;
+height: 300px;
+display: ; 
+justify-content: center;
+border-color: rgb(88, 77, 6);
+border-width: 4px;
+border-style: solid; 
+margin-left: 100px;
 
-    border-radius: 200px;
-    width: 200px;
-	  height: 200px;
-    display: flex; 
-    justify-content: center;
-    border-color: rgb(88, 77, 6);
-    border-width: 2px;
-    border-style: solid; 
-   
 }
+
+
