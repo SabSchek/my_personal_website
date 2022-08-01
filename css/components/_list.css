@@ -1,0 +1,23 @@
+p {
+    font-family: arial;
+    color: white;
+    font-size: 14px;
+    hyphens: none; 
+	  text-align: justify; 
+    width: 350px;
+  
+  }
+
+.about-me {
+
+    font-family: 'Old Standard TT', serif;
+    margin: 1px;
+    padding: 100px;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    display: flex;
+  
+    
+  }
