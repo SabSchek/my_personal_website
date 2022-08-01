@@ -1,3 +1,9 @@
+html {
+
+  display: flex;
+}
+
+
 body {
     background-color: black;
   }
@@ -7,15 +13,18 @@ header {
 	position: center;
 	top: 0px;
 	left: 0px;
-	width: 784px;
+	width: 1200px;
 	height: 9px;
   margin: 0px;
   padding: 0px;
+  display: flex;
+  flex-direction: column;
+
 }
 .header{
 
-    width: 1500px;
-	 height: 350px;
+    width: 2000px;
+	 height: 400px;
     margin: 0px;
     padding: 0px;
 }  
@@ -33,6 +42,7 @@ h4 {
     color: white;
     font-family: 'Cinzel', serif;
     text-align: justify; 
+  
 }
 
 p {
@@ -54,6 +64,8 @@ p {
     color: white;
     font-size: 20px;
     text-decoration: none;
+    display: flex;
+  
     
   }
 
@@ -83,15 +95,25 @@ p {
   .nav-link
   {
     font-family: 'Cinzel', serif;
-    margin: 20px;
+    margin: 40px;
     padding: 40px;
     display: flex; 
-    justify-content: center;
+    justify-content: left;
     color: white;
     font-size: 20px;
     text-decoration: none;
   }
 
+.ref
+{
 
+    border-radius: 200px;
+    width: 200px;
+	  height: 200px;
+    display: flex; 
+    justify-content: center;
+    border-color: rgb(88, 77, 6);
+    border-width: 2px;
+    border-style: solid; 
    
-  
+}
